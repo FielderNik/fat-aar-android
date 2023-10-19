@@ -106,7 +106,6 @@ embed('com.facebook.fresco:fresco:1.11.0') {
 }
 ```
 
-**更多使用方式可参考 [example](./example).**
 
 ## 关于 AAR 文件
 AAR是Android提供的一种官方文件形式；

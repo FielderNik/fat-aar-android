@@ -91,7 +91,6 @@ embed('com.facebook.fresco:fresco:1.11.0') {
 }
 ```
 
-**More usage see [example](./example).**
 
 ## About AAR File
 
